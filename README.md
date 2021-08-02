@@ -1,5 +1,5 @@
 
-# Microservice Archetype 
+# Microservices Archetype 
 
 An archetype helps in automating the basic setup of a microservice. This helps in standardizing project setup across an organization. 
 - Multiple Layers and Dependencies
